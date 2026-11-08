@@ -38,6 +38,8 @@ macOS has Split View and (since Sequoia) window tiling. Windows has Snap, but po
 
 - [FancyZones (PowerToys)](https://github.com/microsoft/PowerToys) - Custom window layouts with drag-to-zone. Closest to Rectangle/Magnet on Mac. `MIT`
 - [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3. If you used Amethyst or yabai on Mac, this is the one. `GPL-3.0`
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Opens apps, browser profiles, and URLs in chosen display layouts using a hold shortcut on Windows 11 (preview). `MIT`
+
 - [Workspacer](https://github.com/workspacer/workspacer) - Tiling window manager driven by C# scripting. `MIT`
 - [bug.n](https://github.com/fuhsjr00/bug.n) - Tiling window manager written in AutoHotkey. Lightweight. `GPL-3.0`
 
